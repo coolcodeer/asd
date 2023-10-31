@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(91, 149, 91);
+    color:rgb(255, 255, 255);
+}
+#score{
+    font-size: xx-large;
+    margin-left:10px;
+}
+#timer{
+    font-size: xx-large;
+    margin-right:10px;
+    float: right;
+
+}
+p{
+    font-size: x-large;
+}
